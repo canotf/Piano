@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  @Author: CACode cctvadmin
+  @Date: 2020/4/48
+  @Last modified: 2020/4/48 23:56 UTC/GMT +8.00
+
+  =================English======================
+
+  Licensed to the CACode cctvadmin under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  You can visit our website:
+
+      https://www.cacode.ren
+
+  And my GitHub:
+  
+  https://github.com/cctvadmin/Piano
+      
+  Clone source code.
+  
+  Allows you to use source code for learning.
+  If you violate relevant laws and regulations by using our source files,
+  we refuse to be responsible for the source code.
+  Knowledge is not a weapon of crime. 
+  Developers should respect themselves.
+  Respect the work of others
+  
+  =================Chinese======================
+
+  在CACode下授权给cctvadmin
+  贡献者许可协议。请参阅随附的通知文件
+  这是关于版权所有权的附加信息。
+  你可以浏览我们的网站:
+  
+  https://www.cacode.ren
+  
+  和我的GitHub:
+  
+  https://github.com/cctvadmin/Piano
+      
+  克隆的源代码。
+  
+  允许您使用源代码学习。
+  如果您使用我们的源文件违反了相关法律法规，
+  我们拒绝对源代码负责。
+  知识不是犯罪的武器。
+  开发者应该尊重自己。
+  尊重他人的工作。
+-->
+<CACode>
+  <theme index="0">
+    <date>
+      <whiteColor>
+        Whtie
+      </whiteColor>
+      <whtieBackground>
+      </whtieBackground>
+      <blackColor>
+        Black
+      </blackColor>
+      <blackBackground>
+      </blackBackground>
+      <keysColor>
+        DarkSlateGray
+      </keysColor>
+    </date>
+  </theme>
+</CACode>
